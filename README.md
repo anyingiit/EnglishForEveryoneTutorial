@@ -6,6 +6,25 @@ Start Notes...
 
 
 
+## Beginner level -1.6
+
+### Exercise
+
+#### 用方框的词语造12个句子并大声朗读
+
+1. Hi,My name is Ordkg.
+2. Hi,My name's Yorddw.
+3. Hi,I am is Lend.
+4. Hello,I'm Dongchao.
+5. Hi,My name's Lneng.
+6. Hello,I'm Tongfang.
+7. Hello,I am Vlsw.
+8. Hi,I'm Ndgs.
+9. Hello,My name's nwhgs.
+10. Hi,i am Olwf.
+11. Hello,My name's Voeng.
+12. Hi,I'm XiaoXiao.
+
 ## Beginner level - 2.1
 
 ### New words
@@ -43,14 +62,12 @@ Start Notes...
 
 ### New Knowledges
 
-1. #### first name 和 last name 以及full name
+#### first name 和 last name 以及full name
 
-   1. first name 指名字 
+1. first name 指名字 
 
-   2. last name 指姓氏
+2. last name 指姓氏
 
-   3. full name 指全名 为 `first name` + `last name` 
+3. full name 指全名 为 `first name` + `last name` 
 
-      例如王小明的  `first name`:Xiaoming ,`last name`:Wang,`full name`:Xiaoming Wang
-
-2. #### 
+   例如王小明的  `first name`:Xiaoming ,`last name`:Wang,`full name`:Xiaoming Wang

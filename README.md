@@ -71,3 +71,33 @@ Start Notes...
 3. full name 指全名 为 `first name` + `last name` 
 
    例如王小明的  `first name`:Xiaoming ,`last name`:Wang,`full name`:Xiaoming Wang
+
+## Beginner level - 3
+
+### New Words
+
+1. government `政府`
+2. instrument `乐器`
+3. Christmas `圣诞节`
+4. heart `心`
+5. hold `拿,握`
+6. verb `动词`
+7. Tokyo`东京`
+8. missing `缺少,缺失`
+9. defeat `击败,战败`
+10. experience `经验`
+11. hotel `酒店`
+12. photo `照片`
+13. rude `粗鲁`
+14. sister `妹妹`
+15. nor `妹妹`
+16. himself `他自己`
+17. secondhand `二手的`
+18. spoon `勺`
+
+
+
+### New Knowledges
+
+
+

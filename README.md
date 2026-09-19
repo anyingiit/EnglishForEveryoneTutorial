@@ -3,9 +3,8 @@
 
 # EnglishForEveryoneTutorial
 
-Hi,My name is Ordkg.
+Personal notes, vocabulary lists, and workbook photos kept while working through the English for Everyone tutorial.
 
-[![CI](https://github.com/anyingiit/EnglishForEveryoneTutorial/actions/workflows/ci.yml/badge.svg)](https://github.com/anyingiit/EnglishForEveryoneTutorial/actions/workflows/ci.yml)
 [![License](https://img.shields.io/github/license/anyingiit/EnglishForEveryoneTutorial)](LICENSE)
 
 [Report a bug](https://github.com/anyingiit/EnglishForEveryoneTutorial/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/anyingiit/EnglishForEveryoneTutorial/issues/new?template=feature_request.yml)
@@ -24,28 +23,29 @@ Hi,My name is Ordkg.
 
 ## About The Project
 
-Hi,My name is Ordkg.
+This repository is anyingiit's running set of personal study notes for the *English for Everyone* workbook: new-word glossaries, worked exercise sentences, and short grammar notes, kept level by level in [`English for Everyone Tutorial - Notes.md`](<English for Everyone Tutorial - Notes.md>). Alongside the notes sit photographs of the workbook pages they refer back to, under [`Tutorial Photos/`](<Tutorial Photos>).
 
-See the [open issues](https://github.com/anyingiit/EnglishForEveryoneTutorial/issues) for planned features and known issues.
+There is no application here to build or run; see [Prerequisites](#prerequisites) and [Usage](#usage) below for what that means in practice.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Git
+- A Markdown viewer, or GitHub's own rendering, to read [`English for Everyone Tutorial - Notes.md`](<English for Everyone Tutorial - Notes.md>). No compiler, runtime, or package manager is required.
 
 ### Installation
 
+There is nothing to install — this repository is notes and photographs, not a package. Get a local copy with:
+
 ```sh
 git clone https://github.com/anyingiit/EnglishForEveryoneTutorial.git
-cd EnglishForEveryoneTutorial
 ```
+
+Then open `English for Everyone Tutorial - Notes.md` in your editor of choice, or read it directly on GitHub.
 
 ## Usage
 
-```sh
-EnglishForEveryoneTutorial --help
-```
+Open [`English for Everyone Tutorial - Notes.md`](<English for Everyone Tutorial - Notes.md>) for the vocabulary lists and worked exercises, level by level, and browse [`Tutorial Photos/`](<Tutorial Photos>) for photographs of the corresponding workbook pages.
 
 ## Contributing
 
